@@ -1,0 +1,702 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: prueba2\n"
+"POT-Creation-Date: 2014-09-25 10:38+0100\n"
+"PO-Revision-Date: 2014-09-25 10:39+0100\n"
+"Last-Translator: Carlos Val <carlos.val@bifi.es>\n"
+"Language-Team: \n"
+"Language: es_ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: /home/carlosval/Documents/ibercivis_theme/ibercivis\n"
+
+#: /home/carlosval/Documents/ibercivis_theme/ibercivis/template-gallery-4.php:359
+msgid "Highlighted Experiments"
+msgstr "Experimentos Destacados"
+
+#: /home/carlosval/Documents/ibercivis_theme/ibercivis/tag.php:99
+#: /home/carlosval/Documents/ibercivis_theme/ibercivis/category.php:98
+#, php-format
+msgid " %s"
+msgstr ""
+
+#: /home/carlosval/Documents/ibercivis_theme/ibercivis/tag.php:156
+#: /home/carlosval/Documents/ibercivis_theme/ibercivis/archive.php:179
+#: /home/carlosval/Documents/ibercivis_theme/ibercivis/category.php:155
+#: /home/carlosval/Documents/ibercivis_theme/ibercivis/search.php:156
+#: /home/carlosval/Documents/ibercivis_theme/ibercivis/blog.php:326
+#: /home/carlosval/Documents/ibercivis_theme/ibercivis/single.php:318
+msgid "0 Comment"
+msgstr "Ningún Comentario"
+
+#: /home/carlosval/Documents/ibercivis_theme/ibercivis/tag.php:156
+#: /home/carlosval/Documents/ibercivis_theme/ibercivis/archive.php:179
+#: /home/carlosval/Documents/ibercivis_theme/ibercivis/category.php:155
+#: /home/carlosval/Documents/ibercivis_theme/ibercivis/search.php:156
+#: /home/carlosval/Documents/ibercivis_theme/ibercivis/blog.php:326
+#: /home/carlosval/Documents/ibercivis_theme/ibercivis/single.php:318
+msgid "1 Comment"
+msgstr "Un Comentario"
+
+#: /home/carlosval/Documents/ibercivis_theme/ibercivis/tag.php:156
+#: /home/carlosval/Documents/ibercivis_theme/ibercivis/archive.php:179
+#: /home/carlosval/Documents/ibercivis_theme/ibercivis/category.php:155
+#: /home/carlosval/Documents/ibercivis_theme/ibercivis/search.php:156
+#: /home/carlosval/Documents/ibercivis_theme/ibercivis/blog.php:326
+#: /home/carlosval/Documents/ibercivis_theme/ibercivis/single.php:318
+msgid "Comments"
+msgstr "Comentarios"
+
+#: /home/carlosval/Documents/ibercivis_theme/ibercivis/tag.php:175
+#: /home/carlosval/Documents/ibercivis_theme/ibercivis/archive.php:198
+#: /home/carlosval/Documents/ibercivis_theme/ibercivis/category.php:173
+#: /home/carlosval/Documents/ibercivis_theme/ibercivis/search.php:175
+#: /home/carlosval/Documents/ibercivis_theme/ibercivis/blog.php:344
+msgid "Read more"
+msgstr "Leer Más"
+
+#: /home/carlosval/Documents/ibercivis_theme/ibercivis/archive.php:115
+#: /home/carlosval/Documents/ibercivis_theme/ibercivis/archive.php:117
+#: /home/carlosval/Documents/ibercivis_theme/ibercivis/archive.php:119
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: /home/carlosval/Documents/ibercivis_theme/ibercivis/archive.php:121
+msgid "Blog Archives"
+msgstr ""
+
+#: /home/carlosval/Documents/ibercivis_theme/ibercivis/contact.php:271
+msgid "Send us a mail"
+msgstr "Mandonos un email"
+
+#: /home/carlosval/Documents/ibercivis_theme/ibercivis/contact.php:287
+#: /home/carlosval/Documents/ibercivis_theme/ibercivis/templates/comments-form.php:22
+msgid "Name"
+msgstr "Nombre"
+
+#: /home/carlosval/Documents/ibercivis_theme/ibercivis/contact.php:296
+msgid "Mail"
+msgstr "Correo"
+
+#: /home/carlosval/Documents/ibercivis_theme/ibercivis/contact.php:305
+#: /home/carlosval/Documents/ibercivis_theme/ibercivis/templates/comments-form.php:36
+msgid "Message"
+msgstr "Mensaje"
+
+#: /home/carlosval/Documents/ibercivis_theme/ibercivis/contact.php:314
+msgid "Address"
+msgstr "Dirección"
+
+#: /home/carlosval/Documents/ibercivis_theme/ibercivis/contact.php:323
+msgid "Phone"
+msgstr "Teléfono"
+
+#: /home/carlosval/Documents/ibercivis_theme/ibercivis/contact.php:332
+msgid "Mobil"
+msgstr "Móvil"
+
+#: /home/carlosval/Documents/ibercivis_theme/ibercivis/contact.php:341
+msgid "Company"
+msgstr "Compañía"
+
+#: /home/carlosval/Documents/ibercivis_theme/ibercivis/contact.php:350
+msgid "Country"
+msgstr "País"
+
+#: /home/carlosval/Documents/ibercivis_theme/ibercivis/contact.php:480
+msgid "Please, insert your name."
+msgstr "Por favor, introduzca su nombre"
+
+#: /home/carlosval/Documents/ibercivis_theme/ibercivis/contact.php:481
+msgid "Please, insert a valid mail."
+msgstr "Por favor, introduzca una dirección de correo valida."
+
+#: /home/carlosval/Documents/ibercivis_theme/ibercivis/contact.php:482
+msgid "Please, insert a message."
+msgstr "Por favor, introduce una mensaje."
+
+#: /home/carlosval/Documents/ibercivis_theme/ibercivis/contact.php:531
+msgid "Email from contact form"
+msgstr "Formulario de contacto"
+
+#: /home/carlosval/Documents/ibercivis_theme/ibercivis/contact.php:534
+msgid "Thank you ! We will in contact with you."
+msgstr "Gracias, nos pondremos en contacto contigo"
+
+#: /home/carlosval/Documents/ibercivis_theme/ibercivis/contact.php:537
+msgid "An error happened. Please, try later."
+msgstr "Un error ocurrio. Inténtelo más tarde"
+
+#: /home/carlosval/Documents/ibercivis_theme/ibercivis/search.php:99
+#, php-format
+msgid "Results for &quot;%s&quot;"
+msgstr ""
+
+#: /home/carlosval/Documents/ibercivis_theme/ibercivis/search.php:155
+#: /home/carlosval/Documents/ibercivis_theme/ibercivis/single.php:316
+msgid "Posted by"
+msgstr "Enviado por:"
+
+#: /home/carlosval/Documents/ibercivis_theme/ibercivis/single.php:257
+msgid "Blog"
+msgstr ""
+
+#: /home/carlosval/Documents/ibercivis_theme/ibercivis/functions.php:80
+#: /home/carlosval/Documents/ibercivis_theme/ibercivis/lib/menu.lib.php:7
+msgid "Primary Menu"
+msgstr "Menú Principal"
+
+#: /home/carlosval/Documents/ibercivis_theme/ibercivis/header.php:575
+msgid "Menú"
+msgstr ""
+
+#: /home/carlosval/Documents/ibercivis_theme/ibercivis/header.php:618
+msgid "LANGUAGE"
+msgstr "Idioma"
+
+#: /home/carlosval/Documents/ibercivis_theme/ibercivis/comments.php:4
+msgid "This post is password protected. Enter the password to view comments."
+msgstr "Esta entrada está protegida por contraseña."
+
+#: /home/carlosval/Documents/ibercivis_theme/ibercivis/fields/post.fields.php:19
+msgid "Videos"
+msgstr ""
+
+#: /home/carlosval/Documents/ibercivis_theme/ibercivis/fields/post.fields.php:21
+#: /home/carlosval/Documents/ibercivis_theme/ibercivis/fields/post.fields.php:22
+msgid "Add New Video"
+msgstr "Añadir un Video"
+
+#: /home/carlosval/Documents/ibercivis_theme/ibercivis/fields/post.fields.php:23
+msgid "Edit Video"
+msgstr "Editar un Video"
+
+#: /home/carlosval/Documents/ibercivis_theme/ibercivis/fields/post.fields.php:24
+msgid "New Video"
+msgstr "Nuevo Video"
+
+#: /home/carlosval/Documents/ibercivis_theme/ibercivis/fields/post.fields.php:25
+msgid "View Video"
+msgstr "Ver Video"
+
+#: /home/carlosval/Documents/ibercivis_theme/ibercivis/fields/post.fields.php:26
+msgid "Search Videos"
+msgstr "Buscar Videos"
+
+#: /home/carlosval/Documents/ibercivis_theme/ibercivis/fields/post.fields.php:27
+msgid "No Video found"
+msgstr "No se ha encontrado el video"
+
+#: /home/carlosval/Documents/ibercivis_theme/ibercivis/fields/post.fields.php:28
+msgid "No Video found in Trash"
+msgstr "No se ha encontrado el video en la papelera"
+
+#: /home/carlosval/Documents/ibercivis_theme/ibercivis/fields/post.fields.php:48
+msgid "Video Sets"
+msgstr "Preferencias de Video"
+
+#: /home/carlosval/Documents/ibercivis_theme/ibercivis/fields/post.fields.php:49
+msgid "Video Set"
+msgstr "Preferencias de Video"
+
+#: /home/carlosval/Documents/ibercivis_theme/ibercivis/fields/post.fields.php:50
+msgid "Search Video Sets"
+msgstr "Busqueda de preferencias de Video"
+
+#: /home/carlosval/Documents/ibercivis_theme/ibercivis/fields/post.fields.php:51
+msgid "All Video Sets"
+msgstr "Todas las preferencias de Video"
+
+#: /home/carlosval/Documents/ibercivis_theme/ibercivis/fields/post.fields.php:52
+msgid "Parent Video Set"
+msgstr ""
+
+#: /home/carlosval/Documents/ibercivis_theme/ibercivis/fields/post.fields.php:53
+msgid "Parent Video Set:"
+msgstr ""
+
+#: /home/carlosval/Documents/ibercivis_theme/ibercivis/fields/post.fields.php:54
+msgid "Edit Video Set"
+msgstr "Editar las preferencias de Video"
+
+#: /home/carlosval/Documents/ibercivis_theme/ibercivis/fields/post.fields.php:55
+msgid "Update Video Set"
+msgstr "Actualizar las preferencias de Video"
+
+#: /home/carlosval/Documents/ibercivis_theme/ibercivis/fields/post.fields.php:56
+msgid "Add New Video Set"
+msgstr "Añadir preferencias de Video"
+
+#: /home/carlosval/Documents/ibercivis_theme/ibercivis/fields/post.fields.php:57
+msgid "New Video Set Name"
+msgstr ""
+
+#: /home/carlosval/Documents/ibercivis_theme/ibercivis/fields/post.fields.php:78
+msgid "Projects"
+msgstr "Proyectos"
+
+#: /home/carlosval/Documents/ibercivis_theme/ibercivis/fields/post.fields.php:79
+msgid "Project"
+msgstr "Proyecto"
+
+#: /home/carlosval/Documents/ibercivis_theme/ibercivis/fields/post.fields.php:80
+#: /home/carlosval/Documents/ibercivis_theme/ibercivis/fields/post.fields.php:81
+msgid "Add New Project"
+msgstr "Añadir nuevo proyecto"
+
+#: /home/carlosval/Documents/ibercivis_theme/ibercivis/fields/post.fields.php:82
+msgid "Edit Project"
+msgstr "Editar Proyecto"
+
+#: /home/carlosval/Documents/ibercivis_theme/ibercivis/fields/post.fields.php:83
+msgid "New Project"
+msgstr "Nuevo Proyecto"
+
+#: /home/carlosval/Documents/ibercivis_theme/ibercivis/fields/post.fields.php:84
+msgid "View Project"
+msgstr "Ver Proyecto"
+
+#: /home/carlosval/Documents/ibercivis_theme/ibercivis/fields/post.fields.php:85
+msgid "Search Projects"
+msgstr "Busqueda de Proyectos"
+
+#: /home/carlosval/Documents/ibercivis_theme/ibercivis/fields/post.fields.php:86
+msgid "No Project found"
+msgstr "No se ha encontrado el proyecto"
+
+#: /home/carlosval/Documents/ibercivis_theme/ibercivis/fields/post.fields.php:87
+msgid "No Project found in Trash"
+msgstr "No se ha encontrado el proyecto en la papelera"
+
+#: /home/carlosval/Documents/ibercivis_theme/ibercivis/fields/post.fields.php:107
+msgid "Project Categories"
+msgstr "Categorías de proyectos"
+
+#: /home/carlosval/Documents/ibercivis_theme/ibercivis/fields/post.fields.php:108
+msgid "Project Category"
+msgstr "Categoría de Proyectos"
+
+#: /home/carlosval/Documents/ibercivis_theme/ibercivis/fields/post.fields.php:109
+msgid "Search Project Categories"
+msgstr "Busqueda en las categorías de proyectos"
+
+#: /home/carlosval/Documents/ibercivis_theme/ibercivis/fields/post.fields.php:110
+msgid "All Project Categories"
+msgstr "Todas las categorías de proyectos"
+
+#: /home/carlosval/Documents/ibercivis_theme/ibercivis/fields/post.fields.php:111
+msgid "Parent Project Category"
+msgstr ""
+
+#: /home/carlosval/Documents/ibercivis_theme/ibercivis/fields/post.fields.php:112
+msgid "Parent Project Categories:"
+msgstr ""
+
+#: /home/carlosval/Documents/ibercivis_theme/ibercivis/fields/post.fields.php:113
+msgid "Edit Project Category"
+msgstr "Editar las categorías de proyectos"
+
+#: /home/carlosval/Documents/ibercivis_theme/ibercivis/fields/post.fields.php:114
+msgid "Update Project Category"
+msgstr "Actualizar las categorías de proyectos"
+
+#: /home/carlosval/Documents/ibercivis_theme/ibercivis/fields/post.fields.php:115
+msgid "Add New Project Category"
+msgstr "Añadir nuevas categorías de proyectos"
+
+#: /home/carlosval/Documents/ibercivis_theme/ibercivis/fields/post.fields.php:116
+msgid "New Project Category Name"
+msgstr "Nueva categoría de proyectos"
+
+#: /home/carlosval/Documents/ibercivis_theme/ibercivis/fields/post.fields.php:137
+msgid "Thumbnail"
+msgstr ""
+
+#: /home/carlosval/Documents/ibercivis_theme/ibercivis/templates/comments-form.php:4
+msgid "You must be"
+msgstr "Debes de ser"
+
+#: /home/carlosval/Documents/ibercivis_theme/ibercivis/templates/comments-form.php:4
+msgid "logged in"
+msgstr "logeado"
+
+#: /home/carlosval/Documents/ibercivis_theme/ibercivis/templates/comments-form.php:4
+msgid "to post a comment"
+msgstr ""
+
+#: /home/carlosval/Documents/ibercivis_theme/ibercivis/templates/comments-form.php:13
+msgid "Leave A Reply"
+msgstr "Deja un mensaje"
+
+#: /home/carlosval/Documents/ibercivis_theme/ibercivis/templates/comments-form.php:17
+msgid "Logged in as"
+msgstr "Logeado como"
+
+#: /home/carlosval/Documents/ibercivis_theme/ibercivis/templates/comments-form.php:17
+msgid "Log out &raquo;"
+msgstr ""
+
+#: /home/carlosval/Documents/ibercivis_theme/ibercivis/templates/comments-form.php:25
+msgid "Email"
+msgstr "Correo"
+
+#: /home/carlosval/Documents/ibercivis_theme/ibercivis/templates/comments-form.php:29
+msgid "Website"
+msgstr ""
+
+#: /home/carlosval/Documents/ibercivis_theme/ibercivis/templates/comments-form.php:40
+msgid "Submit"
+msgstr ""
+
+#: /home/carlosval/Documents/ibercivis_theme/ibercivis/templates/template-password.php:68
+msgid "Password Protected Gallery"
+msgstr ""
+
+#: /home/carlosval/Documents/ibercivis_theme/ibercivis/templates/template-password.php:74
+msgid "This gallery is password protected. Please enter password"
+msgstr ""
+
+#: /home/carlosval/Documents/ibercivis_theme/ibercivis/plugins/troubleshooting.php:18
+msgid "You do not have sufficient permissions to access this page."
+msgstr ""
+
+#: /home/carlosval/Documents/ibercivis_theme/ibercivis/plugins/shiba-media-library/shiba-tag-metabox.php:21
+msgid "Add new tag"
+msgstr ""
+
+#: /home/carlosval/Documents/ibercivis_theme/ibercivis/plugins/shiba-media-library/shiba-tag-metabox.php:22
+msgid "Add or remove tags"
+msgstr ""
+
+#: /home/carlosval/Documents/ibercivis_theme/ibercivis/plugins/shiba-media-library/shiba-tag-metabox.php:23
+msgid "Choose from the most used tags"
+msgstr ""
+
+#: /home/carlosval/Documents/ibercivis_theme/ibercivis/plugins/shiba-media-library/shiba-tag-metabox.php:46
+msgid "Post Tags"
+msgstr ""
+
+#: /home/carlosval/Documents/ibercivis_theme/ibercivis/plugins/shiba-media-library/shiba-tag-metabox.php:49
+#: /home/carlosval/Documents/ibercivis_theme/ibercivis/plugins/shiba-media-library/shiba-library-menu.php:212
+#: /home/carlosval/Documents/ibercivis_theme/ibercivis/plugins/shiba-media-library/shiba-media-library.php:299
+#: /home/carlosval/Documents/ibercivis_theme/ibercivis/plugins/shiba-media-library/shiba-mlib-upload.php:228
+msgid "Attachment Tags"
+msgstr ""
+
+#: /home/carlosval/Documents/ibercivis_theme/ibercivis/plugins/shiba-media-library/shiba-tag-metabox.php:52
+msgid "Gallery Tags"
+msgstr ""
+
+#: /home/carlosval/Documents/ibercivis_theme/ibercivis/plugins/shiba-media-library/shiba-tag-metabox.php:54
+msgid "You cannot modify this taxonomy."
+msgstr ""
+
+#: /home/carlosval/Documents/ibercivis_theme/ibercivis/plugins/shiba-media-library/shiba-mlib-controls.php:34
+msgid "Shiba Media Tools"
+msgstr ""
+
+#: /home/carlosval/Documents/ibercivis_theme/ibercivis/plugins/shiba-media-library/shiba-mlib-controls.php:45
+msgid "Image Link Domains: "
+msgstr ""
+
+#: /home/carlosval/Documents/ibercivis_theme/ibercivis/plugins/shiba-media-library/shiba-mlib-controls.php:60
+msgid "Shared wp-content domains for multisite: "
+msgstr ""
+
+#: /home/carlosval/Documents/ibercivis_theme/ibercivis/plugins/shiba-media-library/shiba-mlib-permalink.php:34
+msgid "Add New Gallery"
+msgstr ""
+
+#: /home/carlosval/Documents/ibercivis_theme/ibercivis/plugins/shiba-media-library/shiba-mlib-permalink.php:35
+msgid "Edit Gallery"
+msgstr ""
+
+#: /home/carlosval/Documents/ibercivis_theme/ibercivis/plugins/shiba-media-library/shiba-mlib-permalink.php:36
+msgid "New Gallery"
+msgstr ""
+
+#: /home/carlosval/Documents/ibercivis_theme/ibercivis/plugins/shiba-media-library/shiba-mlib-permalink.php:37
+msgid "View Gallery"
+msgstr ""
+
+#: /home/carlosval/Documents/ibercivis_theme/ibercivis/plugins/shiba-media-library/shiba-mlib-permalink.php:38
+msgid "Search Gallery"
+msgstr ""
+
+#: /home/carlosval/Documents/ibercivis_theme/ibercivis/plugins/shiba-media-library/shiba-mlib-permalink.php:39
+msgid "No galleries found"
+msgstr ""
+
+#: /home/carlosval/Documents/ibercivis_theme/ibercivis/plugins/shiba-media-library/shiba-mlib-permalink.php:40
+msgid "No galleries found in Trash"
+msgstr ""
+
+#: /home/carlosval/Documents/ibercivis_theme/ibercivis/plugins/shiba-media-library/shiba-mlib-helper.php:210
+#: /home/carlosval/Documents/ibercivis_theme/ibercivis/plugins/shiba-media-library/shiba-library-menu.php:247
+#: /home/carlosval/Documents/ibercivis_theme/ibercivis/plugins/shiba-media-library/shiba-mlib-add.php:147
+#: /home/carlosval/Documents/ibercivis_theme/ibercivis/plugins/shiba-media-library/shiba-mlib-upload.php:263
+msgid "Delete Permanently"
+msgstr "Borrar permanentemente"
+
+#: /home/carlosval/Documents/ibercivis_theme/ibercivis/plugins/shiba-media-library/shiba-mlib-helper.php:212
+msgid "Delete"
+msgstr "Borrar"
+
+#: /home/carlosval/Documents/ibercivis_theme/ibercivis/plugins/shiba-media-library/shiba-mlib-helper.php:213
+#, php-format
+msgid "You are about to delete <strong>%s</strong>."
+msgstr ""
+
+#: /home/carlosval/Documents/ibercivis_theme/ibercivis/plugins/shiba-media-library/shiba-mlib-helper.php:214
+msgid "Continue"
+msgstr "Continuar"
+
+#: /home/carlosval/Documents/ibercivis_theme/ibercivis/plugins/shiba-media-library/shiba-mlib-helper.php:215
+msgid "Cancel"
+msgstr "Cancelar"
+
+#: /home/carlosval/Documents/ibercivis_theme/ibercivis/plugins/shiba-media-library/shiba-mlib-helper.php:218
+#: /home/carlosval/Documents/ibercivis_theme/ibercivis/plugins/shiba-media-library/shiba-mlib-add.php:144
+msgid "Move to Trash"
+msgstr "Mover a la papelera"
+
+#: /home/carlosval/Documents/ibercivis_theme/ibercivis/plugins/shiba-media-library/shiba-mlib-helper.php:219
+#: /home/carlosval/Documents/ibercivis_theme/ibercivis/plugins/shiba-media-library/shiba-mlib-add.php:56
+msgid "Undo"
+msgstr "Deshacer"
+
+#: /home/carlosval/Documents/ibercivis_theme/ibercivis/plugins/shiba-media-library/shiba-library-menu.php:225
+#: /home/carlosval/Documents/ibercivis_theme/ibercivis/plugins/shiba-media-library/shiba-mlib-upload.php:241
+msgid "Search Media"
+msgstr ""
+
+#: /home/carlosval/Documents/ibercivis_theme/ibercivis/plugins/shiba-media-library/shiba-library-menu.php:246
+#: /home/carlosval/Documents/ibercivis_theme/ibercivis/plugins/shiba-media-library/shiba-mlib-add.php:141
+#: /home/carlosval/Documents/ibercivis_theme/ibercivis/plugins/shiba-media-library/shiba-mlib-upload.php:262
+msgid "Bulk Actions"
+msgstr ""
+
+#: /home/carlosval/Documents/ibercivis_theme/ibercivis/plugins/shiba-media-library/shiba-library-menu.php:248
+#: /home/carlosval/Documents/ibercivis_theme/ibercivis/plugins/shiba-media-library/shiba-mlib-upload.php:264
+msgid "Attach to a Post"
+msgstr ""
+
+#: /home/carlosval/Documents/ibercivis_theme/ibercivis/plugins/shiba-media-library/shiba-library-menu.php:249
+#: /home/carlosval/Documents/ibercivis_theme/ibercivis/plugins/shiba-media-library/shiba-mlib-upload.php:265
+msgid "Detach from a Post"
+msgstr ""
+
+#: /home/carlosval/Documents/ibercivis_theme/ibercivis/plugins/shiba-media-library/shiba-library-menu.php:251
+#: /home/carlosval/Documents/ibercivis_theme/ibercivis/plugins/shiba-media-library/shiba-mlib-upload.php:267
+msgid "Set/Replace Tags"
+msgstr ""
+
+#: /home/carlosval/Documents/ibercivis_theme/ibercivis/plugins/shiba-media-library/shiba-library-menu.php:252
+#: /home/carlosval/Documents/ibercivis_theme/ibercivis/plugins/shiba-media-library/shiba-mlib-upload.php:268
+msgid "Add Tags"
+msgstr "Añadir Tags"
+
+#: /home/carlosval/Documents/ibercivis_theme/ibercivis/plugins/shiba-media-library/shiba-mlib-ajax.php:50
+msgid "No tags found!"
+msgstr ""
+
+#: /home/carlosval/Documents/ibercivis_theme/ibercivis/plugins/shiba-media-library/shiba-mlib-ajax.php:101
+msgid "No posts found."
+msgstr ""
+
+#: /home/carlosval/Documents/ibercivis_theme/ibercivis/plugins/shiba-media-library/shiba-mlib-ajax.php:103
+msgid "Title"
+msgstr "Título"
+
+#: /home/carlosval/Documents/ibercivis_theme/ibercivis/plugins/shiba-media-library/shiba-mlib-ajax.php:103
+msgid "Time"
+msgstr "Hora"
+
+#: /home/carlosval/Documents/ibercivis_theme/ibercivis/plugins/shiba-media-library/shiba-mlib-ajax.php:103
+msgid "Status"
+msgstr "Estatus"
+
+#: /home/carlosval/Documents/ibercivis_theme/ibercivis/plugins/shiba-media-library/shiba-mlib-ajax.php:109
+msgid "Published"
+msgstr ""
+
+#: /home/carlosval/Documents/ibercivis_theme/ibercivis/plugins/shiba-media-library/shiba-mlib-ajax.php:112
+msgid "Scheduled"
+msgstr ""
+
+#: /home/carlosval/Documents/ibercivis_theme/ibercivis/plugins/shiba-media-library/shiba-mlib-ajax.php:115
+msgid "Pending Review"
+msgstr ""
+
+#: /home/carlosval/Documents/ibercivis_theme/ibercivis/plugins/shiba-media-library/shiba-mlib-ajax.php:118
+msgid "Unpublished"
+msgstr ""
+
+#: /home/carlosval/Documents/ibercivis_theme/ibercivis/plugins/shiba-media-library/shiba-mlib-ajax.php:126
+msgid "Y/m/d"
+msgstr "m/d/Y"
+
+#: /home/carlosval/Documents/ibercivis_theme/ibercivis/plugins/shiba-media-library/shiba-mlib-add.php:17
+msgid "Gallery Description"
+msgstr ""
+
+#: /home/carlosval/Documents/ibercivis_theme/ibercivis/plugins/shiba-media-library/shiba-mlib-add.php:41
+#, php-format
+msgid "Gallery updated. <a href=\"%s\">View gallery</a>"
+msgstr ""
+
+#: /home/carlosval/Documents/ibercivis_theme/ibercivis/plugins/shiba-media-library/shiba-mlib-add.php:42
+msgid "Custom field updated."
+msgstr ""
+
+#: /home/carlosval/Documents/ibercivis_theme/ibercivis/plugins/shiba-media-library/shiba-mlib-add.php:43
+msgid "Custom field deleted."
+msgstr ""
+
+#: /home/carlosval/Documents/ibercivis_theme/ibercivis/plugins/shiba-media-library/shiba-mlib-add.php:44
+msgid "Gallery updated."
+msgstr ""
+
+#: /home/carlosval/Documents/ibercivis_theme/ibercivis/plugins/shiba-media-library/shiba-mlib-add.php:46
+#, php-format
+msgid "Gallery restored to revision from %s"
+msgstr ""
+
+#: /home/carlosval/Documents/ibercivis_theme/ibercivis/plugins/shiba-media-library/shiba-mlib-add.php:47
+#, php-format
+msgid "Gallery published. <a href=\"%s\">View gallery</a>"
+msgstr ""
+
+#: /home/carlosval/Documents/ibercivis_theme/ibercivis/plugins/shiba-media-library/shiba-mlib-add.php:48
+msgid "Gallery saved."
+msgstr ""
+
+#: /home/carlosval/Documents/ibercivis_theme/ibercivis/plugins/shiba-media-library/shiba-mlib-add.php:49
+#, php-format
+msgid "Gallery submitted. <a target=\"_blank\" href=\"%s\">Preview gallery</a>"
+msgstr ""
+
+#: /home/carlosval/Documents/ibercivis_theme/ibercivis/plugins/shiba-media-library/shiba-mlib-add.php:50
+#, php-format
+msgid ""
+"Gallery scheduled for: <strong>%1$s</strong>. <a target=\"_blank\" href="
+"\"%2$s\">Preview gallery</a>"
+msgstr ""
+
+#: /home/carlosval/Documents/ibercivis_theme/ibercivis/plugins/shiba-media-library/shiba-mlib-add.php:52
+msgid "M j, Y @ G:i"
+msgstr ""
+
+#: /home/carlosval/Documents/ibercivis_theme/ibercivis/plugins/shiba-media-library/shiba-mlib-add.php:53
+#, php-format
+msgid ""
+"Gallery draft updated. <a target=\"_blank\" href=\"%s\">Preview gallery</a>"
+msgstr ""
+
+#: /home/carlosval/Documents/ibercivis_theme/ibercivis/plugins/shiba-media-library/shiba-mlib-add.php:54
+msgid "Media removed from gallery."
+msgstr ""
+
+#: /home/carlosval/Documents/ibercivis_theme/ibercivis/plugins/shiba-media-library/shiba-mlib-add.php:55
+msgid "Media permanently deleted."
+msgstr ""
+
+#: /home/carlosval/Documents/ibercivis_theme/ibercivis/plugins/shiba-media-library/shiba-mlib-add.php:56
+msgid "Media moved to the trash. <a href=\""
+msgstr ""
+
+#: /home/carlosval/Documents/ibercivis_theme/ibercivis/plugins/shiba-media-library/shiba-mlib-add.php:57
+msgid "Media restored from the trash."
+msgstr ""
+
+#: /home/carlosval/Documents/ibercivis_theme/ibercivis/plugins/shiba-media-library/shiba-mlib-add.php:102
+msgid "Add an Image"
+msgstr "Añadir una imágen"
+
+#: /home/carlosval/Documents/ibercivis_theme/ibercivis/plugins/shiba-media-library/shiba-mlib-add.php:142
+msgid "Detach from Gallery"
+msgstr ""
+
+#: /home/carlosval/Documents/ibercivis_theme/ibercivis/plugins/shiba-media-library/shiba-mlib-add.php:214
+msgid "Description"
+msgstr "Descripción"
+
+#: /home/carlosval/Documents/ibercivis_theme/ibercivis/plugins/shiba-media-library/shiba-mlib-manage.php:27
+msgid "ID"
+msgstr ""
+
+#: /home/carlosval/Documents/ibercivis_theme/ibercivis/plugins/shiba-media-library/shiba-mlib-manage.php:30
+msgid "Images"
+msgstr "Imágenes"
+
+#: /home/carlosval/Documents/ibercivis_theme/ibercivis/plugins/shiba-media-library/shiba-mlib-manage.php:31
+#: /home/carlosval/Documents/ibercivis_theme/ibercivis/plugins/shiba-media-library/shiba-mlib-upload.php:58
+msgid "Author"
+msgstr "Autor"
+
+#: /home/carlosval/Documents/ibercivis_theme/ibercivis/plugins/shiba-media-library/shiba-mlib-manage.php:33
+msgid "Categories"
+msgstr "Categorías"
+
+#: /home/carlosval/Documents/ibercivis_theme/ibercivis/plugins/shiba-media-library/shiba-mlib-manage.php:34
+msgid "Tags"
+msgstr ""
+
+#: /home/carlosval/Documents/ibercivis_theme/ibercivis/plugins/shiba-media-library/shiba-mlib-manage.php:59
+#: /home/carlosval/Documents/ibercivis_theme/ibercivis/plugins/shiba-media-library/shiba-mlib-upload.php:99
+#: /home/carlosval/Documents/ibercivis_theme/ibercivis/plugins/shiba-media-library/shiba-mlib-upload.php:109
+#, php-format
+msgid "Edit &#8220;%s&#8221;"
+msgstr ""
+
+#: /home/carlosval/Documents/ibercivis_theme/ibercivis/plugins/shiba-media-library/shiba-mlib-manage.php:91
+msgid "Uncategorized"
+msgstr "Sin categoría"
+
+#: /home/carlosval/Documents/ibercivis_theme/ibercivis/plugins/shiba-media-library/shiba-mlib-manage.php:103
+#: /home/carlosval/Documents/ibercivis_theme/ibercivis/plugins/shiba-media-library/shiba-mlib-upload.php:82
+msgid "No Tags"
+msgstr ""
+
+#: /home/carlosval/Documents/ibercivis_theme/ibercivis/plugins/shiba-media-library/shiba-media-library.php:300
+msgid ""
+"Associate tags with image attachments to easily include them in multiple "
+"image galleries."
+msgstr ""
+
+#: /home/carlosval/Documents/ibercivis_theme/ibercivis/plugins/shiba-media-library/shiba-mlib-upload.php:297
+msgid "Show all dates"
+msgstr "Mostrar todas las fechas"
+
+#: /home/carlosval/Documents/ibercivis_theme/ibercivis/plugins/shiba-media-library/shiba-mlib-options.php:26
+msgid "Shiba Media Library settings updated."
+msgstr ""
+
+#: /home/carlosval/Documents/ibercivis_theme/ibercivis/plugins/shiba-media-library/shiba-mlib-options.php:33
+msgid "Shiba Media Options"
+msgstr ""
+
+#: /home/carlosval/Documents/ibercivis_theme/ibercivis/lib/custom.lib.php:209
+msgid "Page"
+msgstr "Página"
+
+#: /home/carlosval/Documents/ibercivis_theme/ibercivis/lib/custom.lib.php:234
+msgid "(Your comment is awaiting moderation.)"
+msgstr ""
+
+#: /home/carlosval/Documents/ibercivis_theme/ibercivis/lib/custom.lib.php:320
+msgid "Recent Posts"
+msgstr "Entradas recientes"
+
+#: /home/carlosval/Documents/ibercivis_theme/ibercivis/lib/custom.lib.php:328
+msgid "Popular Posts"
+msgstr "Entradas más poulares"
+
+#~ msgid "MenÃº"
+#~ msgstr "Menú"
